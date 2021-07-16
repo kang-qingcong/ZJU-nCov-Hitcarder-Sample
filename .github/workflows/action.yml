@@ -15,7 +15,7 @@ jobs:
           - username: ZJU_USERNAME153
             password: ZJU_PASSWORD153
             dingtalk_token: DINGTALK_TOKEN
-            pushplus_token: PUSHPLUS_TOKEN
+            pushplus_token: PUSHPLUS_TOKEN153
             serverchan_key: SERVERCHAN_KEY
     steps:
       - name: Working
