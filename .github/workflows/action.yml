@@ -12,8 +12,8 @@ jobs:
       fail-fast: true
       matrix:
         include:
-          - username: ZJU_USERNAME
-            password: ZJU_PASSWORD
+          - username: ZJU_USERNAME153
+            password: ZJU_PASSWORD153
             dingtalk_token: DINGTALK_TOKEN
             pushplus_token: PUSHPLUS_TOKEN
             serverchan_key: SERVERCHAN_KEY
