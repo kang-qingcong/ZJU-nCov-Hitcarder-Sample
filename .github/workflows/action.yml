@@ -22,6 +22,11 @@ jobs:
             dingtalk_token: DINGTALK_TOKEN
             pushplus_token: PUSHPLUS_TOKEN153
             serverchan_key: SERVERCHAN_KEY
+          - username: ZJU_USERNAME_364
+            password: ZJU_PASSWORD_364
+            dingtalk_token: DINGTALK_TOKEN
+            pushplus_token: PUSHPLUS_TOKEN
+            serverchan_key: SERVERCHAN_KEY
     steps:
       - name: Working
         uses: Long0x0/zju-ncov-hitcarder@master
